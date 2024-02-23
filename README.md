@@ -24,6 +24,7 @@ To do this, follow these steps:
 4. Add people
 5. Add the provided github users with "Triage" permissions
 6. Create a pull request (feature_solutions -> main) and add the assessors as reviewers.
+    1. Make sure you explain your solutions in the pull request!
 
 ## Tasks
 
