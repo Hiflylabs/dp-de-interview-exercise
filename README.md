@@ -16,6 +16,7 @@ Create a folder named Solution. All files that are part of you solution shall be
 Make sure the solutions you submit is in line with how you would handle your daily tasks. Comment the code, format it etc.
 We expect all text and code in your submission to be in English. 
 If you are ready to submit your solution, add all assessors' GitHub username to your project (usernames will be provided by the person you are in contact with).
+
 To do this, follow these steps:
 1. Go to project settings (https://github.com/<Reponame>/settings)
 2. Collaborators and teams
@@ -29,7 +30,7 @@ To do this, follow these steps:
 ### Background
 As a Data Engineer, one of your clients is entrusting you with a crucial task. The client is eager to analyze and visualize the purchasing behaviors of their customers. In order to fulfill this requirement, you are tasked with creating data mart tables that will serve as the foundation for a comprehensive analysis about customer buying patterns.
 
-The assignment involves processing two **source files**: “customer” containing customer details and “CustomerSales” tracking purchases of customers. The stack you are using is your choice (SQL, Spark, etc.), but a brief description of the chosen runtime environment is required.
+The assignment involves processing two **source files**: "customer" containing customer details and "CustomerSales" tracking purchases of customers. The stack you are using is your choice (SQL, Spark, etc.), but a brief description of the chosen runtime environment is required.
 
 ### Task descriptions
 Task 0: Load the provided two files into the data platform of your choosing.
