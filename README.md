@@ -9,13 +9,20 @@ First of all read the whole readme file and make sure you understand what is exp
 
 ## Solution
 
-Create a **private repository** in GitHub. 
+Create a **private repository** in GitHub.
+The master branch should be called main. 
 Create a new branch in your repository called feature_solutions.
 Create a folder named Solution. All files that are part of you solution shall be put in this folder in a hierarchy of your choosing.
 Make sure the solutions you submit is in line with how you would handle your daily tasks. Comment the code, format it etc.
 We expect all text and code in your submission to be in English. 
 If you are ready to submit your solution, add all assessors' GitHub username to your project (usernames will be provided by the person you are in contact with).
-Create a pull request and add the assessors as reviewers.
+To do this, follow these steps:
+1. Go to project settings (https://github.com/<Reponame>/settings)
+2. Collaborators and teams
+3. Manage Access
+4. Add people
+5. Add the provided github users with "Triage" permissions
+6. Create a pull request (feature_solutions -> main) and add the assessors as reviewers.
 
 ## Tasks
 
