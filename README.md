@@ -5,12 +5,11 @@ The solutions will be discussed afterwards so make sure you are prepared to expl
 
 ## How to solve the test
 
-First of all read the whole readme file and make sure you understand what is expected from you. If in doubt collect your questions and send it to the person you are in contact with. She will forward your questions for the right personel.
+First of all read the whole readme file and make sure you understand what is expected from you. If in doubt collect your questions and send it to the person you are in contact with. They will forward your questions for the right personel.
 
 ## Solution
 
 Create a **private repository** in GitHub.
-The master branch should be called main. 
 Create a new branch in your repository called feature_solutions.
 Create a folder named Solution. All files that are part of you solution shall be put in this folder in a hierarchy of your choosing.
 Make sure the solutions you submit is in line with how you would handle your daily tasks. Comment the code, format it etc.
@@ -23,7 +22,7 @@ To do this, follow these steps:
 3. Manage Access
 4. Add people
 5. Add the provided github users with "Triage" permissions
-6. Create a pull request (feature_solutions -> main) and add the assessors as reviewers.
+6. Create a pull request (feature_solutions -> main branch) and add the assessors as reviewers.
     1. Make sure you explain your solutions in the pull request!
 
 ## Tasks
