@@ -39,4 +39,4 @@ Task 1: Imagine that you receive these same files daily from the source system j
 
 Task 2: A client asks you to provide a KPI which describes how much a specific customer spent in the year until each month in that year. The table should be designed in a way that the client could select a year and/or a month on the dashboard and the visualization shows how much a specific customer spent in that year until that month.
 
-Task 3: For each customer, the client would like to know how many days have passed since their last purchase. The table should be designed in a way that the client chooses any date from a dropdown list and the KPI would be calculated compared to that day (how many days have passed since their last purchase until that day).
+Task 3: For each customer, the client would like to know how many days have passed since their last purchase before the selected date. The table should be designed in a way that the client chooses any date from a dropdown list and the KPI would be calculated compared to that day (how many days have passed since their last purchase until that day).
