@@ -1,0 +1,101 @@
+CustomerID,CustomerName,City,JoinDate,Email
+1,Rachel Dunlap,Indianapolis,2022-12-31,anthonyknight@rodriguez.biz
+2,Kara Atkinson,New York,2022-09-29,dmendez@garza.com
+3,Ashley Mcdowell,Chicago,2022-08-09,carrillodawn@williams.net
+4,Mark Berry,San Diego,2022-07-16,deanjonathan@gmail.com
+5,Larry Dudley,Columbus,2023-03-09,kevin79@gmail.com
+6,Stacey Lowe,Chicago,2022-01-21,michael54@yahoo.com
+7,Todd Gonzalez,Dallas,2023-06-04,diazkatherine@hotmail.com
+8,Jill Martin,Fort Worth,2022-07-25,jesseclark@yahoo.com
+9,Deanna Greene,Phoenix,2022-07-02,sean01@yahoo.com
+10,Janice Ellis,Austin,2023-08-19,williamsrobert@cochran.com
+11,Melissa Herman,Jacksonville,2022-05-27,uvance@brooks.info
+11,Nicole Bonilla,San Antonio,2023-08-01,james66@hotmail.com
+13,Andrea Burton,Dallas,2023-02-04,moraemily@kennedy.com
+14,Julie Moon,San Diego,2022-02-07,gardnerpeter@gmail.com
+15,Bianca Simmons,Austin,2022-07-16,nicholas24@yahoo.com
+16,Hector Moreno,Los Angeles,2022-09-30,gainesvalerie@rowe.com
+17,Pamela David,Columbus,2022-01-31,upoole@mcconnell.com
+18,Jessica Blankenship,Chicago,2023-12-20,thomasgoodman@martinez.com
+19,Michelle Edwards,San Diego,2022-12-26,mgarcia@price.biz
+20,Antonio Fowler,San Jose,2022-10-26,qbenjamin@garcia-mcmillan.com
+21,Paul Lucas,Dallas,2022-02-25,mcgeerobert@williams.info
+22,Larry Marks,Jacksonville,2023-08-17,castilloerin@smith.com
+23,Christopher Sanchez,Chicago,2023-01-19,kathypark@garcia.com
+24,Michelle Olson,San Jose,2023-09-07,marcusgonzalez@hotmail.com
+25,Joel Mack,San Jose,2022-09-06,danielreed@sanchez-perry.com
+26,Christopher Bradford,Dallas,2023-05-14,kellymeyer@hotmail.com
+27,James Smith,Charlotte,2022-03-23,jessica56@gill-tran.info
+28,Sean Williams,Phoenix,2023-10-05,wendyhayden@gmail.com
+29,Gregory Salazar,Chicago,2022-01-15,jeremylee@yahoo.com
+30,Ruth Walton,Phoenix,2022-05-26,wwilliams@clark.com
+31,Michael Cook,San Jose,2022-11-06,jacob48@gmail.com
+32,Lisa Noble,Austin,2023-02-16,juanbell@yahoo.com
+33,Monica Stephens MD,Los Angeles,2023-12-24,bbrown@hotmail.com
+34,Elizabeth Patterson,San Jose,2022-04-11,fsmith@yahoo.com
+35,Scott Love,San Diego,2023-10-30,rodriguezrachel@collins-cox.com
+36,Daisy Gonzalez,Dallas,2022-11-04,wharrison@henry.org
+37,Jeffrey Jones,Austin,2022-12-07,phyllisfoster@ellis.biz
+38,Victoria Miller,San Antonio,2022-10-14,kristinapowell@gmail.com
+39,Craig Mueller,Los Angeles,2022-02-01,bryangarza@yahoo.com
+40,Matthew Shaffer,New York,2022-04-24,ogibson@kelly-ibarra.com
+41,Richard Ward,Jacksonville,2023-02-28,crossshannon@greene.info
+42,Richard Hernandez,Columbus,2023-08-13,gcarter@gmail.com
+43,Eric Kennedy,San Diego,2022-10-17,ernesthouston@hotmail.com
+44,Jason Ellis,San Diego,2023-05-29,jessicacraig@osborne-thompson.com
+45,Billy Cooper,Phoenix,2023-03-04,gferguson@larson.com
+46,Rhonda Johnson,Fort Worth,2023-09-11,mooreerica@gordon.org
+47,Deborah Wolfe,Jacksonville,2022-01-15,douglas73@hotmail.com
+48,Charles Thompson,Columbus,2022-09-26,ericaserrano@gmail.com
+49,Karen Bell,Charlotte,2023-04-07,kstevenson@gmail.com
+50,Erin Clark,Chicago,2022-12-23,sherryjacobs@hotmail.com
+51,Andrea James,Los Angeles,2022-07-09,melvin77@yahoo.com
+52,Michele Fernandez DDS,Austin,2023-09-23,charles41@taylor.com
+53,Patty Lam,Jacksonville,2022-12-26,acox@oconnor.net
+54,Tiffany Romero,San Jose,2022-01-27,
+55,Amanda Alexander,San Diego,2022-02-03,marchamilton@gmail.com
+56,William Lewis,Chicago,2023-02-11,mooreelizabeth@wallace-price.com
+57,John Lin,Dallas,2023-01-20,austinmontes@reyes.com
+58,Jill Smith,Indianapolis,2022-10-20,mleonard@blake.com
+59,Christopher Martin,Fort Worth,2023-12-17,carlos52@vasquez-avila.info
+60,Christopher Green,Dallas,2023-12-27,beverly11@harrington-terry.com
+61,Dawn Jones,Indianapolis,2022-03-14,jwolfe@yahoo.com
+62,Samantha Brady,San Antonio,2023-10-05,hgreene@mullen-salazar.com
+63,Eduardo Knapp,Fort Worth,2022-07-16,donaldsontheresa@collins.org
+64,Matthew Smith,Columbus,2023-03-31,desireesullivan@hamilton.com
+65,David Sloan,Chicago,2022-08-31,wdavis@hotmail.com
+66,John Chaney,Houston,2024-01-01,emily54@gmail.com
+67,John Scott,New York,2022-12-05,fordjames@yahoo.com
+68,Connor Lane,Houston,2022-08-18,rhonda25@hotmail.com
+69,Rebecca Leon,Houston,2022-01-22,millervictor@hotmail.com
+70,Tina Stephens,Chicago,2022-03-31,michael32@gmail.com
+71,Cindy Torres,San Diego,2022-12-23,laurencarrillo@thompson.com
+72,Jacob Nguyen,Indianapolis,2023-12-01,samuel89@yahoo.com
+73,William Larson,Houston,2023-03-20,ingramlisa@powers-wyatt.com
+74,Darrell Ruiz,Columbus,2022-08-12,brockfrank@yahoo.com
+75,Timothy Cook,Dallas,2023-09-12,sullivanthomas@yahoo.com
+76,Ashley Pearson,Los Angeles,2022-08-02,jessica38@smith-bender.net
+77,Scott Anderson,Chicago,2023-10-13,tabitha66@rivera.org
+78,Jason Turner,Dallas,2023-09-16,fbean@bennett.com
+79,David Knight II,Dallas,2023-04-10,
+80,Donald Bruce,Dallas,2023-06-19,michelle45@gmail.com
+81,Susan Willis,Houston,2022-11-25,joneserinyahoo.com
+82,Patricia Davies,Indianapolis,2022-01-13,rebecca05@jones.com
+83,Justin Finley,New York,2022-05-23,pgray@maddox.biz
+84,Amber Mcdonald,Los Angeles,2022-07-31,bradleymichael@yahoo.com
+85,Teresa Mendoza,Fort Worth,2022-05-05,jbooth@hotmail.com
+86,David Coleman,San Diego,2023-01-14,whitewilliam@gmail.com
+87,Kevin Woods,Fort Worth,2023-10-24,kristenle@yahoo.com
+88,Joshua Moreno,Fort Worth,2022-12-02,jerrywolf@hotmail.com
+89,Timothy Gonzalez,Phoenix,2022-05-17,christopherbenitez@carson.info
+90,Kristen Long,San Diego,2022-10-12,stanleymichael@evans.info
+91,Patricia Rodriguez,Austin,2022-05-12,daniellewoods@berry.com
+92,Teresa Harris,Charlotte,2023-08-08,pperez@hotmail.com
+93,Sarah Moran,Indianapolis,2022-02-04,gallegosalyssa@avila.com
+94,Stephanie Robles,Houston,2022-11-22,hrosario@diaz.com
+95,Thomas Carrillo,San Jose,2023-12-13,
+96,Dylan Cunningham,Austin,2023-09-10,gabriela79@le.com
+97,Jeremy Nguyen,Los Angeles,2023-08-10,sarahsullivan@martinez-escobar.com
+98,Anna Alvarez,Jacksonville,2023-01-20,nuneznicholas@yahoo.com
+99,Sarah Farrell,Dallas,2023-03-16,rgordon@hotmail.com
+100,Chelsea Larson DVM,Austin,2022-09-23,justin98@gmail.com

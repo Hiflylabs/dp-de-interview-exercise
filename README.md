@@ -28,15 +28,29 @@ To do this, follow these steps:
 ## Tasks
 
 ### Background
-As a Data Engineer, one of your clients is entrusting you with a crucial task. The client is eager to analyze and visualize the purchasing behaviors of their customers. In order to fulfill this requirement, you are tasked with creating data mart tables that will serve as the foundation for a comprehensive analysis about customer buying patterns.
+As a Data Engineer, one of your clients is entrusting you with a crucial task.
 
 The assignment involves processing two **source files**: "customer" containing customer details and "CustomerSales" tracking purchases of customers. The stack you are using is your choice (SQL, Spark, etc.), but a brief description of the chosen runtime environment is required.
 
+In solving the tasks, we are interested in the solutions provided using a platform of your choice. It is not necessary to provide a fully orchestrated data platform solution; it is sufficient if the individual tasks are meaningful on their own.
+Additionally, we do not require any dashboard solutions. We appreciate code and more important we don't want to waste your time.
+
+
 ### Task descriptions
-Task 0: Load the provided two files into the data platform of your choosing.
+Task 1: Using the available data, design a data model for the platform of your choice.
 
-Task 1: Imagine that you receive these same files daily from the source system just with different data. Explain how would you load these files into the data platform of your choosing (how many tables would you create and why, what kind of transformations would you do on the data?). You don't have to provide the code for this, just the explanation. However if explaining the process or your following codes (that creates the data mart tables required in the following tasks) is easier for you that way, you can include them in your submission.
+The goal of the data model is to support efficient storage and analysis of sales and customer data.
+Take into account data cleansing steps, relationships between data, and potential normalization levels.
+It is not mandatory to use the 3rd Normal Form (3NF). Choose a suitable approach and justify why you chose it.
 
-Task 2: A client asks you to provide a KPI which describes how much a specific customer spent in the year until each month in that year. The table should be designed in a way that the client could select a year and/or a month on the dashboard and the visualization shows how much a specific customer spent in that year until that month.
+Task 2:
+Create a procedure or SQL statements for loading sales and customer tables into a central layer. The procedure does not need to be complete, but the method of loading should be visible.
+The focus is on the loading process itself, not the surrounding elements (e.g., logging, error handling, etc.).
 
-Task 3: For each customer, the client would like to know how many days have passed since their last purchase before the selected date. The table should be designed in a way that the client chooses any date from a dropdown list and the KPI would be calculated compared to that day (how many days have passed since their last purchase until that day).
+Task 3
+Write a query that answers the following question:
+Which cities have at least 5 customers who purchased at least 3 different products in the last 90 days, and where the total purchase value of these customers falls in the top 50%?
+
+Task 4
+Create a test log that includes the tests and checks you would perform during or after tasks 2 and 3, or what checks you would integrate during execution.
+
